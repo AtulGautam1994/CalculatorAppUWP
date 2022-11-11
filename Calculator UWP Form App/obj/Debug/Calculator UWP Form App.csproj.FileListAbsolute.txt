@@ -1,0 +1,10 @@
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\bin\Debug\Calculator UWP Form App.exe.config
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\bin\Debug\Calculator UWP Form App.exe
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\bin\Debug\Calculator UWP Form App.pdb
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\obj\Debug\Calculator UWP Form App.csprojAssemblyReference.cache
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\obj\Debug\Calculator_UWP_Form_App.Form1.resources
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\obj\Debug\Calculator_UWP_Form_App.Properties.Resources.resources
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\obj\Debug\Calculator UWP Form App.csproj.GenerateResource.cache
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\obj\Debug\Calculator UWP Form App.csproj.CoreCompileInputs.cache
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\obj\Debug\Calculator UWP Form App.exe
+C:\Users\ATUL GAUTAM\Documents\C# Codes\Calculator UWP Form App\Calculator UWP Form App\obj\Debug\Calculator UWP Form App.pdb
